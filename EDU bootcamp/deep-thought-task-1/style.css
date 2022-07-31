@@ -1,0 +1,214 @@
+.container{
+    /* Story Board project */
+position: relative;
+width: 1440px;
+height: 3451px;
+background: #FFFFFF;
+    /* box-sizing: border-box;
+position: absolute;
+width: 1136px;
+height: 2849px;
+left: 177px;
+top: 273px;
+background: #FFFFFF;
+border: 1px solid #F0F0F0;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+}
+.title-bar{
+    position: absolute;
+    width: 1440px;
+    height: 90px;
+    left: 0px;
+    top: 0px;
+    background: #F0F0F0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo{
+    position: absolute;
+width: 311px;
+height: 49px;
+left: 80px;
+top: 20px;
+
+}
+.rightside{
+    position: absolute;
+    width: 30px;
+    height: 49.77px;
+    left: 1133px;
+    top: 49.77px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 30px;
+    
+
+}
+.side1 img{
+    position: absolute;
+left: 59.17%;
+right: 39.65%;
+top: 1.72%;
+bottom: 97.84%;
+
+/* font-family: 'Font Awesome 5 Free';
+font-style: normal;
+font-weight: 900;
+font-size: 15px;
+line-height: 17px;
+letter-spacing: 0.02em; */
+
+color: #FFFFFF;
+background-color: #3683F0;
+border: 1px solid #3683F0; 
+ width: 15px;
+height: 25px;
+border-radius: 80%;
+
+}
+.header{
+position: absolute;
+width: 445px;
+height: 28px;
+left: 196px;
+top: 233px;
+}
+
+.side2 img{
+    position: absolute;
+left: 94.50%;
+right: 5.50%;
+top: 1.72%;
+bottom: 97.84%;
+
+font-family: 'Font Awesome 5 Free';
+font-style: normal;
+font-weight: 900;
+font-size: 15px;
+line-height: 17px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+background-color: #3683F0;
+border: 1px solid #3683F0;
+width: 15px;
+height: 25px;
+border-radius: 80%;
+
+}
+
+.side3 img{
+    position: absolute;
+left: 19.17%;
+right: 79.65%;
+top: 1.72%;
+bottom: 97.84%;
+
+font-family: 'Font Awesome 5 Free';
+font-style: normal;
+font-weight: 900;
+font-size: 15px;
+line-height: 17px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+background-color: #3683F0;
+border: 1px solid #3683F0;
+width: 15px;
+height: 25px;
+border-radius: 80%;
+
+}
+.rightside1{
+    position: absolute;
+width: 40.36px;
+height: 40px;
+left: 1293px;
+top: 24px;
+
+background: url(attractive-beautiful-beauty-1376051);
+border-radius: 250px;
+}
+.rightside2{
+    margin-left: 1350px;
+    margin-top: 5px;
+    padding: 0px;
+    
+}
+.rightside3{
+    margin-left: 1350px;
+    margin-top: 6px;
+    
+}
+.rightside4{
+    margin-left: 1350px;
+    margin-top: 7px;
+    
+}
+
+.main-left img{
+    margin-top: 205px;
+    cursor: pointer;
+}
+
+.main{
+    background: #F5F5F5;
+}
+.header{
+    position: absolute;
+width: 1136px;
+height: 51px;
+left: 177px;
+top: 222px;
+
+background: #0029FF;
+border-radius: 10px 10px 0px 0px;
+}
+.content{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1136px;
+height: 2849px;
+left: 177px;
+top: 273px;
+
+background: #FFFFFF;
+border: 1px solid #F0F0F0;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.content p{
+    position: absolute;
+    margin-left: 550px;
+/* width: 165px;
+height: 42px;
+left: 662px;
+top: 317px; */
+
+/* background: url(image.png); */
+}
+/* .right{
+    position: absolute;
+width: 461px;
+height: 320px;
+left: 243px;
+top: 403px;
+
+background: url();
+} */
+.content1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.center {
+   margin-left: 350px;
+   margin-top: 50px;
+}
+.bottom-end {
+    position: absolute;
+    width: 89.07px;
+    height: 76.32px;
+    left: 1207px;
+    top: 3188.86px;
+    cursor: pointer;
+}
